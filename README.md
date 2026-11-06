@@ -12,6 +12,12 @@
 
 ## 2. Tag - 30.10.2026
 ### Meine Ziele
-- [ ] Ich möchte von Herr Eisen den Umgang mit Websites lernen.
-- [ ] Ich möchte mich mit Vencord beschäfftigen
-- [ ] Ich möchte meinen Linux Horizont erweitern.
+- [x] Ich möchte von Herr Eisen den Umgang mit Websites lernen.
+- [x] Ich möchte mich mit Vencord beschäfftigen
+- [x] Ich möchte meinen Linux Horizont erweitern.
+
+## 3.Tag - 06.11.2026
+### Meine Ziele
+- [ ] Ich möchte USB File Transfer auf meine Gemoddete Switch bekommen.
+- [ ] Ich möchte meine Switch mit modding Customizen.
+- [ ] Ich möchte auf meiner Switch ein Videospiel modden.
