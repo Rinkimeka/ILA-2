@@ -1,7 +1,7 @@
 # Lern-Atelier 2
 ## Meine Ziele
 - [ ] Python Essentials 2 Fertig machen.
-- [ ] Omarchy Linux als Main OS verwenden können.
+- [x] Omarchy Linux als Main OS verwenden können.
 - [ ] Ideen für ein Cyberdeck sammeln. 
 
 ## 1. Tag - 23.10.2026
@@ -18,6 +18,6 @@
 
 ## 3.Tag - 06.11.2026
 ### Meine Ziele
-- [ ] Ich möchte USB File Transfer auf meine Gemoddete Switch bekommen.
-- [ ] Ich möchte meine Switch mit modding Customizen.
-- [ ] Ich möchte auf meiner Switch ein Videospiel modden.
+- [x] Ich möchte USB File Transfer auf meine Gemoddete Switch bekommen.
+- [x] Ich möchte meine Switch mit modding Customizen.
+- [x] Ich möchte auf meiner Switch ein Videospiel modden.
