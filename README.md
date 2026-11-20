@@ -6,9 +6,9 @@
 
 ## 5.Tag - 20.11.2026
 ### Meine Ziele
-- [ ] Omarchy OS custom einrichten
+- [x] Omarchy OS custom einrichten
 - [ ] Mich mit der Anwendung von Python auseinandersetzen
-- [ ] Mein Projekt (Backup Systems) fertig machen.
+- [x] Mein Projekt (Backup Systems) fertig machen.
 
 
 ## 4.Tag - 13.11.2026
