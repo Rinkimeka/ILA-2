@@ -4,6 +4,13 @@
 - [x] Omarchy Linux als Main OS verwenden können.
 - [ ] Ideen für ein Cyberdeck sammeln. 
 
+## 5.Tag - 20.11.2026
+### Meine Ziele
+- [ ] Omarchy OS custom einrichten
+- [ ] Mich mit der Anwendung von Python auseinandersetzen
+- [ ] Mein Projekt (Backup Systems) fertig machen.
+
+
 ## 4.Tag - 13.11.2026
 ### Meine Ziele
 - [x] ParrotOS Triplebooten
